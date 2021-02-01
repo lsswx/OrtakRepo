@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
+#Hocam selamun aleykum ben bu projede http://books.toscrape.com/index.html sitesinden tüm kitap adlarını çekmeye çalışdım fakat sadece katagori sınıflarına göre veri çekiyor . 
+#ben bu projede siteden tüm kitap adlarını ve fiyatlarını nasıl çekebilirim ? Veriyi çekdikten program otomatik olarak bunu excele kopyalayabilirmi ? şimdiden teşekkürler .
 
 # In[32]:
 
